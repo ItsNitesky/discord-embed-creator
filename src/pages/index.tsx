@@ -82,11 +82,11 @@ __Underline__`,
 			inline: true
 		}
 	],
-	image: "https://cubedhuang.com/images/alex-knight-unsplash.webp",
-	thumbnail: "https://dan.onl/images/emptysong.jpg",
+	image: "https://i.imgur.com/x1UUFNV.jpeg",
+	thumbnail: "https://i.imgur.com/ulKHUsK.png",
 	footer: {
 		text: "Example Footer",
-		iconUrl: "https://slate.dan.onl/slate.png"
+		iconUrl: "https://i.imgur.com/ulKHUsK.png"
 	},
 	timestamp: Date.now()
 };
@@ -233,7 +233,7 @@ export default function Home() {
 							Discord Embed Creator
 						</h1>
 						<a
-							href="https://github.com/cubedhuang/discord-embed-creator"
+							href="https://github.com/ItsNitesky/discord-embed-creator"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="hover:underline"
